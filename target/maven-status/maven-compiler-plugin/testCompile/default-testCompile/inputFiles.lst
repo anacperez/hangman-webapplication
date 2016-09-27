@@ -1,5 +1,5 @@
-/Users/anaperez/Documents/School/softwareEngineering/hangman-webapp/src/test/java/feature/webclient/HangmanWebClientIT.java
-/Users/anaperez/Documents/School/softwareEngineering/hangman-webapp/src/test/java/edu/csumb/cst438fa16/hangman/rest/HangmanResourceTest.java
-/Users/anaperez/Documents/School/softwareEngineering/hangman-webapp/src/test/java/edu/csumb/cst438fa16/hangman/webClient/HangmanIT.java
-/Users/anaperez/Documents/School/softwareEngineering/hangman-webapp/src/test/java/edu/csumb/cst438fa16/hangman/HangmanTest.java
-/Users/anaperez/Documents/School/softwareEngineering/hangman-webapp/src/test/java/feature/webclient/HangmanWebClientStep.java
+/Users/anaperez/Documents/School/softwareEngineering/hangman-webapplication/src/test/java/edu/csumb/cst438fa16/hangman/rest/HangmanResourceTest.java
+/Users/anaperez/Documents/School/softwareEngineering/hangman-webapplication/src/test/java/feature/webclient/HangmanWebClientIT.java
+/Users/anaperez/Documents/School/softwareEngineering/hangman-webapplication/src/test/java/feature/webclient/HangmanWebClientStep.java
+/Users/anaperez/Documents/School/softwareEngineering/hangman-webapplication/src/test/java/edu/csumb/cst438fa16/hangman/webClient/HangmanIT.java
+/Users/anaperez/Documents/School/softwareEngineering/hangman-webapplication/src/test/java/edu/csumb/cst438fa16/hangman/HangmanTest.java
