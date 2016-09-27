@@ -14,7 +14,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 /**
  * User story:
  *
- *   As a user I want to be greeted by the name of my choice to become amused
+ *   As a user I want to be at the hangman page and enter a new guess letter
+*     so that I can be amused.
  *
  * Class name ends in IT so it runs with "mvn integration-test", not "mvn test".
  */
