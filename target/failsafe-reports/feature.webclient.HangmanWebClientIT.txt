@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: feature.webclient.HangmanWebClientIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.278 sec <<< FAILURE! - in feature.webclient.HangmanWebClientIT
+initializationError(feature.webclient.HangmanWebClientIT)  Time elapsed: 0.007 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: cucumber/deps/com/thoughtworks/xstream/converters/ConverterRegistry
+Caused by: java.lang.ClassNotFoundException: cucumber.deps.com.thoughtworks.xstream.converters.ConverterRegistry
+

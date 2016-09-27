@@ -1,0 +1,5 @@
+edu/csumb/cst438fa16/hangman/webClient/HangmanIT.class
+edu/csumb/cst438fa16/hangman/HangmanTest.class
+feature/webclient/HangmanWebClientIT.class
+edu/csumb/cst438fa16/hangman/rest/HangmanResourceTest.class
+feature/webclient/HangmanWebClientStep.class
